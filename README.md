@@ -5,12 +5,11 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, C++, C 
-- **Frontend:** React, Angular, Vue.js, HTML, CSS
-- **Backend:** Node.js, Express, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Frontend:** React, Angular, Angular.js, HTML, CSS, React Native
+- **Backend:** Node.js, Express
+- **Databases:** MySQL, PostgreSQL
 - **Blockchain:** Ethereum, Solidity, Web3.js
-- **Others:** Docker, Kubernetes, Git, Jenkins
+- **Others:** Docker, Git
 
 ## 📈 GitHub Stats
 
