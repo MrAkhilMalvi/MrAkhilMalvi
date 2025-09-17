@@ -21,7 +21,7 @@
 [![An image of @mrakhilmalvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrakhilmalvi)](https://holopin.io/@mrakhilmalvi)
 
 ### A Specific Badge
-![My Badge](https://www.holopin.io/userbadge/cmfnx5f7n0003ib04hpzvwk99)
+![My Badge]([https://www.holopin.io/userbadge/cmfnx5f7n0003ib04hpzvwk99](https://www.holopin.io/hacktoberfest2025/userbadge/cmfnx5f7n0003ib04hpzvwk99))
 
 
 ## 🌟 Featured Projects
