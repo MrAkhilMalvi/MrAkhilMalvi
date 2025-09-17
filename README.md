@@ -15,7 +15,14 @@
 
 ![MrAkhilMalvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAkhilMalvi&show_icons=true&theme=radical)
 
+## 🏆 Holopin Badges
+
+### My Badge Board
 [![An image of @mrakhilmalvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrakhilmalvi)](https://holopin.io/@mrakhilmalvi)
+
+### A Specific Badge
+![My Badge](https://www.holopin.io/userbadge/cmfnx5f7n0003ib04hpzvwk99)
+
 
 ## 🌟 Featured Projects
 
