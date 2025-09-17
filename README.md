@@ -15,11 +15,11 @@
 
 ![MrAkhilMalvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAkhilMalvi&show_icons=true&theme=radical)
 
-## 🏆 Holopin Badges
+
 
 ## 🎖️ Holopin Badge
 
-[![Holopin Badge](https://holopin.io/api/userbadge/cmfnx5f7n0003ib04hpzvwk99)](https://www.holopin.io/hacktoberfest2025/userbadge/cmfnx5f7n0003ib04hpzvwk99)
+[![An image of @mrakhilmalvi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrakhilmalvi)](https://holopin.io/@mrakhilmalvi)
 
 
 
