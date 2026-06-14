@@ -60,7 +60,7 @@ Full Stack Developer from India focused on building scalable web applications, c
 
 ## 🚀 Featured Projects
 
-### 🎮 [AXCADE](https://github.com/MrAkhilMalvi/AXCADE)
+### 🎮 [AXCADE](https://github.com/MrAkhilMalvi/betting-app)
 Play-and-Earn gaming platform built with React, TypeScript, Node.js, PostgreSQL, Redis and Socket.IO.
 
 - Rocket Crash Game
@@ -76,8 +76,6 @@ Workflow-driven Cloud Deployment Operating System.
 - Infrastructure Automation & Execution Runtime
 - Cloud Deployment Management
 
-### 🎲 [Betting App](https://github.com/MrAkhilMalvi/betting-app)
-A full-stack betting platform featuring real-time odds, wallet management, and secure transaction handling.
 
 ### 🌌 [Akhil's Portfolio](https://github.com/MrAkhilMalvi/Akhil-s-Portfolio)
 A modern, animated developer portfolio showcasing projects, skills, and experience.
