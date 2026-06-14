@@ -134,7 +134,7 @@ A modern, animated developer portfolio showcasing projects, skills, and experien
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mr-akhil-malvi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/mr-akhil-malvi-013a82282/]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Akhil_Malviya25"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" /></a>
   <a href="mailto:malviyaakhil078@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
